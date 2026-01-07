@@ -1,7 +1,7 @@
 
 # Talent BootCamp Series – 1 🤖✨
 <p align="center">
-  <img src="assets/flyer.png" alt="Talent BootCamp Series - 1 Flyer" width="700">
+  <img src="img.jpeg" alt="Talent BootCamp Series - 1 Flyer" width="700">
 </p>
 
 This repository contains the official **slides, labs, and learning materials** for **Talent BootCamp Series – 1**, organized by the **Giftedness and Innovation Unit at the College of Computer Science**.
